@@ -1,12 +1,13 @@
 # Dance for the Rescues
 
+---
 ## 2023 October event:
 
-[youtube video](https://www.youtube.com/watch?v=HhfxsFvt07U)
+[Event video, youtube](https://www.youtube.com/watch?v=HhfxsFvt07U)
 
-[same video, with downloadable options](https://archive.org/details/dance-for-the-rescues)
+[<img src="flyer.jpg">](https://www.youtube.com/watch?v=HhfxsFvt07U)
 
-![dance for the rescues flyer](flyer.jpg)
+[Event video, with downloadable options](https://archive.org/details/dance-for-the-rescues)
 
 Dance for the Rescues
 
@@ -24,9 +25,16 @@ Organizations:
 - [South County Animal Rescue](https://scar.pet)
 - [Hitchcock Road Animal Services](https://hitchcockroadanimals.org)
 
-In support of the Maui Humane Society
+In support of the Maui Humane Society.
+
+In memory of Polaris Kinison Brown.
+
 
 ---
+## 2013 event:
+[<img src="ksbw.jpg">](https://www.youtube.com/watch?v=VK_-8FMV_Gc)
 
+
+---
 ## 2011 October event:
 [archive.org/details/dance4rescues](https://archive.org/details/dance4rescues)
