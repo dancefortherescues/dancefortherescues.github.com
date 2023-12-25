@@ -3,7 +3,7 @@
 ---
 ## 2023 October event:
 
-[Event video, youtube](https://www.youtube.com/watch?v=HhfxsFvt07U)
+[<img src="dfr-2023.jpg">](https://www.youtube.com/watch?v=HhfxsFvt07U)
 
 [<img src="flyer.jpg">](https://www.youtube.com/watch?v=HhfxsFvt07U)
 
