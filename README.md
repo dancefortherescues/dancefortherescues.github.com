@@ -1,6 +1,10 @@
 ---
 title: Dance for the Rescues
-topics: dance, charity, rescue animals, fundraiser
+topics: 
+  - dance
+  - charity
+  - rescue animals
+  - fundraiser
 ---
 
 # Dance for the Rescues
